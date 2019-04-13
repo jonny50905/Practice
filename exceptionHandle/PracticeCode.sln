@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutipleTaskExceptionHandle", "MutipleTaskExceptionHandle.csproj", "{D91D85C0-766C-423A-9733-215DD69EDFA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91D85C0-766C-423A-9733-215DD69EDFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91D85C0-766C-423A-9733-215DD69EDFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91D85C0-766C-423A-9733-215DD69EDFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91D85C0-766C-423A-9733-215DD69EDFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {748BCF4A-1CB6-412D-926D-987A89A0141C}
+	EndGlobalSection
+EndGlobal
